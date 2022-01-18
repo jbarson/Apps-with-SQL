@@ -1,6 +1,7 @@
 # Using SQL in your app
 
 Youtube: https://youtu.be/0Bo1zKVw7aA
+Github: https://github.com/jbarson/Apps-with-SQL
 
 ### node-postgres
 
